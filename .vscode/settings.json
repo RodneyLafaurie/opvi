@@ -1,0 +1,9 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c327deed-34b3-4869-886d-d1aa871b8fc8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/amicasa"
+}
